@@ -1,0 +1,17 @@
+div{
+	
+	margin : auto;
+	width: 600px;
+}
+body{
+
+	background-color: #e3e3e3;
+	font-family: serif; 
+}
+blockquote{
+
+	border: 2px solid white;
+	margin-left: 413px;
+	margin-right: 500px;
+	text-align: center;
+}
